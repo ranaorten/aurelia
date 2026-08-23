@@ -45,3 +45,6 @@ next-env.d.ts
 # Leftover AI-agent skill symlinks from `prisma init` (unrelated to the app)
 /.claude
 
+
+# Local Netlify folder
+.netlify
